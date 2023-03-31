@@ -20,7 +20,7 @@ A work in progress portfolio of my projects so far.
 
 ## Usage
 
-[Click Here](http://127.0.0.1:5500/index.html) to brought to my portfolio page.  Enjoy this work in progress.
+[Click Here](https://tygosley.github.io/get-the-job-portfolio/) to brought to my portfolio page.  Enjoy this work in progress.
 
 ---
 
